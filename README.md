@@ -7,6 +7,13 @@ Developed in **Processing (Java mode)** using the **Minim** audio library, the p
 As the sound grows louder, the circle expands and changes colour from green to orange and red, representing safe, caution, and danger sound levels.  
 The project aims to promote awareness around **hearing protection** in live music environments, turning invisible sound data into a calm, aesthetically engaging experience.  
 
+# Project Status 
+Complete
+
+# Room for improvement
+
+More elements could be added. A more refined version, using the prototype with real time at live music events
+
 ---
 
 # Features  
@@ -17,14 +24,17 @@ The project aims to promote awareness around **hearing protection** in live musi
   - Orange → Warning (90–100 dB)  
   - Red → Danger (above 100 dB)  
 
-- 🌈 **Visual design:** Dark, colourful tones and smooth transitions create a subtle, ambient feel suited for festivals or installations.  
+- **Visual design:** Dark, colourful tones and smooth transitions create a subtle, ambient feel suited for festivals or installations.  
 
 ---
 
-## ⚙️ Installation  
+# Installation  
 1. Download and install [Processing](https://processing.org/download/).  
 2. Add the [Minim library](https://code.compartmental.net/tools/minim/):  
    - In Processing: go to **Sketch → Import Library → Add Library…**, search **“Minim”**, then click **Install**.  
 3. Clone or download this repository:  
-   ```bash
+   
    git clone https://github.com/<your-username>/pastel-sound-visualiser.git
+
+# Contact
+Contact me at philippa.j.robbins@student.uts.edu.au !
