@@ -1,4 +1,19 @@
 # SoundVisualiser
+
+
+
+# Table of Contents
+- [Overview](#-overview)
+- [Development Process ](#-Development-Process)
+- [Project Status ](#-Project-Status)
+- [Room for improvement](#-Room-for-improvement)
+- [Features](#-Features)
+- [Installation](#-Installation)
+- [Contact](#-Contact)
+- 
+
+# Overview
+
 An interactive animation that recives sound and displays it in a unqiue way.
 
 is an interactive, data-driven prototype that transforms live sound into motion and colour.  
@@ -6,6 +21,16 @@ Developed in **Processing (Java mode)** using the **Minim** audio library, the p
 
 As the sound grows louder, the circle expands and changes colour from green to orange and red, representing safe, caution, and danger sound levels.  
 The project aims to promote awareness around **hearing protection** in live music environments, turning invisible sound data into a calm, aesthetically engaging experience.  
+
+
+
+# Development Process 
+
+Week 7	Built first reactive circle prototype
+Week 8 Added colour mapping and calibration
+Week 9 Refined visuals and motion
+Week 10 Testing and sensitivity adjustment
+Week 11-12 Reflection and documentation
 
 # Project Status 
 Complete
