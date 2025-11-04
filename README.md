@@ -25,9 +25,13 @@ The project aims to promote awareness around **hearing protection** in live musi
 # Development Process 
 
 Week 7	Built first reactive circle prototype
+
 Week 8 Added colour mapping and calibration
+
 Week 9 Refined visuals and motion
+
 Week 10 Testing and sensitivity adjustment
+
 Week 11-12 Reflection and documentation
 
 # Project Status 
